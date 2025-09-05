@@ -3,3 +3,5 @@ obj/
 .vscode
 chat.db
 API.http
+appsettings.json
+appsettings.Development.json
