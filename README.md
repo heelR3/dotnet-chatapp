@@ -63,8 +63,8 @@ This repository contains a **full-stack chat application** built with **ASP.NET 
 
 The application is deployed separately on **Azure**:
 
-- API: [Azure API URL]  
-- Client: [Azure Frontend URL]
+- API: [chat-app-api.azurewebsites.net]  
+- Client: [chat-app-ui.azurewebsites.net]
 
 > Make sure to update the frontend `environment.ts` file to point to the deployed API URL.
 
